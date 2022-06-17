@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "binford"]
+	path = binford
+	url = https://github.com/benmarwick/binford
+	shallow = true
+	registered = true
+[submodule "cvequality"]
+	path = cvequality
+	url = https://github.com/benmarwick/cvequality
+	shallow = true
+	registered = true
+[submodule "gsloid"]
+	path = gsloid
+	url = https://github.com/benmarwick/gsloid
+	shallow = true
+	registered = true
