@@ -13,8 +13,3 @@
 	url = https://github.com/benmarwick/cvequality
 	shallow = true
 	registered = true
-[submodule "gsloid"]
-	path = gsloid
-	url = https://github.com/benmarwick/gsloid
-	shallow = true
-	registered = true
