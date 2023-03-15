@@ -1,14 +1,14 @@
 [
   {
-    "package": "gsloid",
-    "oncran": true
-  },
-  {
     "package": "binford",
     "oncran": true
   },
   {
     "package": "cvequality",
+    "oncran": true
+  },
+  {
+    "package": "gsloid",
     "oncran": true
   }
 ]
